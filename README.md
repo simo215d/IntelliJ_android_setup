@@ -1,0 +1,1 @@
+# IntelliJ_android_setup
